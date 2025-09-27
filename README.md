@@ -4,9 +4,8 @@
 I am a recent graduate with  interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+A passionate and driven fresh graduate with a strong foundation in Bachelor of Science in Information Technology, now seeking an entry-level or junior web developer role. Eager to apply my programming skills and problem-solving abilities to build user-friendly, responsive, and efficient web applications. I am a quick learner, dedicated to mastering modern web technologies and contributing effectively to a collaborative development team.
 
 ## Skills
 
